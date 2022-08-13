@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Desktop/Launchers/lit&amp;arfant/s-update-3.1.0-BETA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Desktop/Launchers/lit&amp;arfant/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Desktop/Launchers/lit&amp;arfant/swinger-1.0.0-BETA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Desktop/java-discord-rpc-2.0.1-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Desktop/Launchers/lit&amp;arfant/openauth-1.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tom/Desktop/Launchers/lit&amp;arfant/openlauncherlib-3.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
